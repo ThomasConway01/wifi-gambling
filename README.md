@@ -1,7 +1,7 @@
 # 🎲 Wi-Fi Time Roulette (The Bandwidth Casino)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThomasConway01/wifi-gambling/main/static/assets/banner.png" alt="Wi-Fi Time Roulette" width="100%" onerror="this.style.display='none'"/>
+  <img src="static/assets/banner.png" alt="Wi-Fi Time Roulette" width="100%"/>
 </p>
 
 <p align="center">
