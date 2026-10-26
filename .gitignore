@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite Databases & runtime storage (redacts private home network data & scan caches)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/*.sqlite*
+!data/.gitkeep
+
+# Environment and sensitive configs
+.env
+.env.*
+*.env
+*.local
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and test caches
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
