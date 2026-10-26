@@ -1,7 +1,7 @@
 # 🎲 Wi-Fi Time Roulette (The Bandwidth Casino)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThomasConway01/wifi-gambling/master/static/assets/banner.png" alt="Wi-Fi Time Roulette" width="100%" onerror="this.style.display='none'"/>
+  <img src="https://raw.githubusercontent.com/ThomasConway01/wifi-gambling/main/static/assets/banner.png" alt="Wi-Fi Time Roulette" width="100%" onerror="this.style.display='none'"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThomasConway01/wifi-gambling/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
+  <a href="https://github.com/ThomasConway01/wifi-gambling/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License: MIT"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0.110%2B-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://ui.com/"><img src="https://img.shields.io/badge/Hardware-UniFi%20%7C%20Firewall%20%7C%20Webhook-crimson.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Routers"/></a>
